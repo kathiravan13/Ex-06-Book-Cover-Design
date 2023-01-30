@@ -114,13 +114,13 @@ Add images and other contents using CSS record a screenshot of it.
             Develop future-proof responsive websites using the latest HTML5 and CSS Techniques
         </div>
         <div class="photo">
-            <img src="/static/images/index.png" width="130" height="145" alt="">
+            <img src="/static/images/kathir.png" width="130" height="145" alt="">
         </div>
         <div class="id">
             <hr style="color: orange;">
         </div>
         <div class="author">
-           <p><b>VAISHNAVI</b></p>
+           <p><b>KATHIRAVAN</b></p>
         </div>
         <div class="publisher">
             Packt>
