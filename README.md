@@ -20,6 +20,7 @@ Write down the code for book cover using HTML and CSS.
 Add images and other contents using CSS record a screenshot of it.
 
 # Code:
+```
 <style>
     .bookpage{
         width: 400px;
@@ -130,6 +131,7 @@ Add images and other contents using CSS record a screenshot of it.
         
     </div>
 </body>
+```
 # OUTPUT:
 
 
